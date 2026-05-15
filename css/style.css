@@ -221,6 +221,7 @@ nav{
 
 .info_title p{
     font-size: 20px;
+    text-align: justify;
     color: rgb(0, 0, 0);
     line-height: 30px;
 }
